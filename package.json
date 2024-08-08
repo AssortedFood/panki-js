@@ -1,0 +1,7 @@
+{
+  "name": "Testing",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "open src/index.html"
+  }
+}
