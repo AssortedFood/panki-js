@@ -1,6 +1,5 @@
-import App from './components/App.js';
+import { loadApp } from './components/app.js';
 
-document.addEventListener('DOMContentLoaded', () => {
-  const root = document.getElementById('root');
-  root.appendChild(App());
-});
+window.onload = () => {
+  loadApp();
+};
