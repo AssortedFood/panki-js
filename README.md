@@ -10,7 +10,7 @@ To improve the learning process for doctors preparing for the FRCPath part 2 exa
 ## Value Creation
 
 - **For Users:** Provides a comprehensive, interactive learning platform with real-time AI-based feedback.
-- **For Stakeholders:** Enhances the pass rates of candidates and positions the company as a leader in medical education technology.
+- **For Stakeholders:** Enhances the pass rates and quality of candidates.
 
 ## Goal
 
