@@ -1,0 +1,21 @@
+body {
+    background-color: gainsboro;
+}
+
+.centered {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.split_left {
+    height: 100%;
+    width: 50%;
+    left: 0
+}
+
+.split_right {
+    height: 100%;
+    width: 50%;
+    left: 0
+}
