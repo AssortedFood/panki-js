@@ -100,4 +100,3 @@ To improve the learning process for doctors preparing for the FRCPath part 2 exa
 2. Making changes to the codebase to ensure it is functional after the importing of our new database structure.
 3. Making changes to the codebase to allow for the presenting of slide images as they are currently formatted.
 4. Importing the new database.
-
