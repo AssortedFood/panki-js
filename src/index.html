@@ -1,15 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SQL-Driven JavaScript App</title>
-</head>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles/light.css">
+  </head>
+
 <body>
-  <div id="app" style="display: flex; height: 100vh;">
-    <div id="left-half" style="width: 50%;"></div>
-    <div id="right-half" style="width: 50%;"></div>
+
+  <div class="split left">
+    <div class="centered">
+      <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username">
+      </form>
+    </div>
   </div>
-  <script type="module" src="index.js"></script>
+  
+  <div class="split right">
+    <div class="centered">
+      <label for="Your answer">Comments:</label>
+      <textarea id="answer" name="answer"></textarea>
+      <button type="button" onclick="alert('Hello world!')">Submit</button>
+    </div>
+  </div>
+ 
 </body>
 </html>
